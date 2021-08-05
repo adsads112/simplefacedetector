@@ -1,0 +1,2 @@
+# simplefacedetector
+opencv-python
